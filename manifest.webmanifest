@@ -1,0 +1,1 @@
+{"name":"Installation Hub V2","short_name":"Install Hub","start_url":"./index.html","scope":"./","display":"standalone","background_color":"#091822","theme_color":"#0d2230","description":"Offline-first electrical installation guides and equipment library","icons":[{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]}
